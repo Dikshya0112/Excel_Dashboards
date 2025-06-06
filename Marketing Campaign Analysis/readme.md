@@ -8,7 +8,7 @@ The dataset includes information on marketing outreach and performance across mu
 - Email
 - SMS
 - Social Media <br>
-Each record contains:
+<br>Each record contains:
 - Region
 - Gender
 - Stage of funnel (Impressions, Clicks, Leads, Conversions)
@@ -51,9 +51,9 @@ The dashboard includes:
 - Interactive filters by using Slicers
 
 > ### 📸 <u>Screenshots</u>:  
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d1.png">[Gender , Region and Channel Comparision]</a>
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d2.png">[Mail Interaction]</a>
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d3.png">[Funnel Chart and Monthly Stats of Conversion]</a>
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d1.png">[Gender , Region and Channel Comparision]</a><br>
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d2.png">[Mail Interaction]</a><br>
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d3.png">[Funnel Chart and Monthly Stats of Conversion]</a><br>
 
 ## 🔍 <u>Key Insights</u>
 - **Email campaigns** had the highest number of conversions overall.
