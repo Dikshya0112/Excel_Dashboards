@@ -50,10 +50,11 @@ The dashboard includes:
 - 🎯Monthly Stats using Combo Charts
 - Interactive filters by using Slicers
 
-> ### 📸 <u>Screenshots</u>:  
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d1.png">[Gender , Region and Channel Comparision]</a><br>
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d2.png">[Mail Interaction]</a><br>
-> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d3.png">[Funnel Chart and Monthly Stats of Conversion]</a><br>
+> ### 📸 <u>Screenshots of Dashboard</u>:  
+> ![Gender , Region and Channel Comparision](https://github.com/user-attachments/assets/1f2ecc23-84f8-4a14-bc37-75107c401a7f)
+> ![Mail Interaction](https://github.com/user-attachments/assets/29ba48d3-47a0-46e3-b45a-9d42a1fdf359)
+> ![Funnel Chart and Monthly Stats of Conversion](https://github.com/user-attachments/assets/1f065e29-6002-449d-8e39-2236a67e3a12)
+
 
 ## 🔍 <u>Key Insights</u>
 - **Email campaigns** had the highest number of conversions overall.
