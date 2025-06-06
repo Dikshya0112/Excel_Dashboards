@@ -7,7 +7,7 @@ The dashboard aims to help stakeholders identify strong-performing channels, tra
 The dataset includes information on marketing outreach and performance across multiple channels such as:
 - Email
 - SMS
-- Social Media
+- Social Media <br>
 Each record contains:
 - Region
 - Gender
@@ -51,9 +51,9 @@ The dashboard includes:
 - Interactive filters by using Slicers
 
 > ### 📸 <u>Screenshots</u>:  
-> ![Gender , Region and Channel Comparision](Marketing Campaign Analysis/d1.png)  
-> ![Mail Interaction](Marketing Campaign Analysis/d2.png)
-> ![Funnel Chart and Monthly Stats](Marketing Campaign Analysis/d3.png)
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d1.png">[Gender , Region and Channel Comparision]</a>
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d2.png">[Mail Interaction]</a>
+> <a href= "https://github.com/Dikshya0112/Excel_Dashboards/blob/main/Marketing%20Campaign%20Analysis/d3.png">[Funnel Chart and Monthly Stats of Conversion]</a>
 
 ## 🔍 <u>Key Insights</u>
 - **Email campaigns** had the highest number of conversions overall.
