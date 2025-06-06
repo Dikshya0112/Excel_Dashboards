@@ -50,9 +50,12 @@ The dashboard includes:
 - 🎯Monthly Stats using Combo Charts
 - Interactive filters by using Slicers
 
-> ### 📸 <u>Screenshots of Dashboard</u>:  
+> ### 📸 <u>Screenshots of Dashboard</u>:
+- Gender , Region and Channel Comparision
 > ![Gender , Region and Channel Comparision](https://github.com/user-attachments/assets/1f2ecc23-84f8-4a14-bc37-75107c401a7f)
+- Mail Interaction
 > ![Mail Interaction](https://github.com/user-attachments/assets/29ba48d3-47a0-46e3-b45a-9d42a1fdf359)
+- Funnel Chart and Monthly Stats of Conversion
 > ![Funnel Chart and Monthly Stats of Conversion](https://github.com/user-attachments/assets/1f065e29-6002-449d-8e39-2236a67e3a12)
 
 
