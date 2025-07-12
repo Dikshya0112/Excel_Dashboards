@@ -17,7 +17,9 @@ To identify trends and patterns in employee attrition to help HR teams:
 
 - **Visualizations:**
   - 📌 Attrition by Department
+  - 📌 Attrition by Years worked in company
   - 📌 Attrition by Gender
+  - 📌 Attrition by Salary range
   - 📌 Attrition by Age Group
   - 📌 Attrition by Performance Rating
   - 📌 Attrition by Job Satisfaction
@@ -56,4 +58,5 @@ To identify trends and patterns in employee attrition to help HR teams:
 - Integrate predictive analysis using Python or Power BI.
 
 ## 📸 Dashboard Preview
-> ![Employee Attrition dashboard](https://github.com/user-attachments/assets/b53c3a83-65f3-4bd8-803e-34e8f00dd48f)
+> <img width="1842" height="691" alt="dashboard" src="https://github.com/user-attachments/assets/5510cdb8-cf29-4eca-8d99-e602d4ae4ddb" />
+
